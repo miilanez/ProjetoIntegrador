@@ -5,8 +5,7 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
     >Demora na comprovação da entrega de carga no cliente final
 
 ## Funcionalidade desejada:
-    >De forma rápida, através de um QR Code, as informações de entrega será atualizada no sistema central TMS que será responsável
-    >em avisar aos envolvidos do frete.
+    >De forma rápida, através de um QR Code, as informações de entrega será atualizada no sistema central TMS que será responsável em avisar aos envolvidos do frete.
 
 ## Personas:
     1. Motorista de entregas
