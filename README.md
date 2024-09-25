@@ -30,3 +30,5 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
 4. A leitura do QRCode é obrigatória ou a confirmação pode ser feita pelo número do pedido por exemplo?
 5. Quais os dados necessários para confirmar a entrega?
 6. O acesso a rede móvel nas áreas de entrega é um problema?
+7. Quais personas estão diretamente envolvidas com a rotina de entrega?
+
