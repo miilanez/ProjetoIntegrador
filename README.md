@@ -24,5 +24,9 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
     2. Visualização das entregas do dia com opção de confirmação da entrega
 
 ## Questionamentos
-1. Será necessário o direcionamento da rota e deslocamento para os motoristas?
+1. Será necessário o direcionamento da rota e deslocamento para os motoristas ou apenas a função de confirmação de entrega?
 2. Quais as informações existentes na etiqueta das encomendas?
+3. Como será a comunicação com o sistema TMS (via JSON)?
+4. A leitura do QRCode é obrigatória ou a confirmação pode ser feita pelo número do pedido por exemplo?
+5. Quais os dados necessários para confirmar a entrega?
+6. O acesso a rede móvel nas áreas de entrega é um problema?
