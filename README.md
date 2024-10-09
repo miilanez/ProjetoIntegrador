@@ -34,3 +34,6 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
 
 ## Figma
 https://www.figma.com/design/P0ugj4jq4FmJEw5414EeRx/Projeto-Integrador-GW-Systems?node-id=0-1&node-type=canvas&t=Th7wkMMB4yQEb0Zs-0
+
+## Descrição das telas do Projeto
+https://1drv.ms/w/c/41614471984440a7/EdlGRUhJt3VIpUIt2GK86AsBCUf-n0x_B5vx0B3qdc_qhg?e=cdJeud
