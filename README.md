@@ -32,3 +32,5 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
 6. O acesso a rede móvel nas áreas de entrega é um problema?
 7. Quais personas estão diretamente envolvidas com a rotina de entrega?
 
+## Figma
+https://www.figma.com/design/P0ugj4jq4FmJEw5414EeRx/Projeto-Integrador-GW-Systems?node-id=0-1&node-type=canvas&t=Th7wkMMB4yQEb0Zs-0
